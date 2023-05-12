@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: df009ad5b152189419a95347798b5d61
+timeCreated: 1530939091
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ArchWall
+    100002: BaseRoad
+    100004: Building
+    100006: EgyptWall01
+    100008: EgyptWall02
+    100010: EndSea
+    100012: MiddleSea
+    100014: Park
+    100016: Pillar01
+    100018: PillarAerialTrain
+    100020: Pyramid
+    100022: SeaBoat01
+    100024: SeaBoat02
+    100026: Sphinx
+    100028: StartSea
+    100030: Station01
+    100032: Station02
+    100034: Stature01
+    100036: Store
+    100038: //RootNode
+    100040: Tree01
+    100042: Tree02
+    100044: Tree03
+    100046: Tree04
+    100048: Tree05
+    100050: Tree06
+    100052: RightSide
+    100054: Station01Left
+    100056: Station01Right
+    400000: ArchWall
+    400002: BaseRoad
+    400004: Building
+    400006: EgyptWall01
+    400008: EgyptWall02
+    400010: EndSea
+    400012: MiddleSea
+    400014: Park
+    400016: Pillar01
+    400018: PillarAerialTrain
+    400020: Pyramid
+    400022: SeaBoat01
+    400024: SeaBoat02
+    400026: Sphinx
+    400028: StartSea
+    400030: Station01
+    400032: Station02
+    400034: Stature01
+    400036: Store
+    400038: //RootNode
+    400040: Tree01
+    400042: Tree02
+    400044: Tree03
+    400046: Tree04
+    400048: Tree05
+    400050: Tree06
+    400052: RightSide
+    400054: Station01Left
+    400056: Station01Right
+    2300000: ArchWall
+    2300002: BaseRoad
+    2300004: Building
+    2300006: EgyptWall01
+    2300008: EgyptWall02
+    2300010: EndSea
+    2300012: MiddleSea
+    2300014: Park
+    2300016: Pillar01
+    2300018: PillarAerialTrain
+    2300020: Pyramid
+    2300022: SeaBoat01
+    2300024: SeaBoat02
+    2300026: Sphinx
+    2300028: StartSea
+    2300030: Station01
+    2300032: Station02
+    2300034: Stature01
+    2300036: Store
+    2300038: Tree01
+    2300040: Tree02
+    2300042: Tree03
+    2300044: Tree04
+    2300046: Tree05
+    2300048: Tree06
+    2300050: RightSide
+    2300052: Station01Left
+    2300054: Station01Right
+    3300000: ArchWall
+    3300002: BaseRoad
+    3300004: Building
+    3300006: EgyptWall01
+    3300008: EgyptWall02
+    3300010: EndSea
+    3300012: MiddleSea
+    3300014: Park
+    3300016: Pillar01
+    3300018: PillarAerialTrain
+    3300020: Pyramid
+    3300022: SeaBoat01
+    3300024: SeaBoat02
+    3300026: Sphinx
+    3300028: StartSea
+    3300030: Station01
+    3300032: Station02
+    3300034: Stature01
+    3300036: Store
+    3300038: Tree01
+    3300040: Tree02
+    3300042: Tree03
+    3300044: Tree04
+    3300046: Tree05
+    3300048: Tree06
+    3300050: RightSide
+    3300052: Station01Left
+    3300054: Station01Right
+    4300000: Store
+    4300002: Station02
+    4300004: Station01
+    4300006: ArchWall
+    4300008: Pyramid
+    4300010: Sphinx
+    4300012: BaseRoad
+    4300014: Stature01
+    4300016: Tree01
+    4300018: Tree02
+    4300020: PillarAerialTrain
+    4300022: Tree03
+    4300024: Tree04
+    4300026: EgyptWall01
+    4300028: Pillar01
+    4300030: EgyptWall02
+    4300032: Tree05
+    4300034: Park
+    4300036: Building
+    4300038: StartSea
+    4300040: SeaBoat01
+    4300042: MiddleSea
+    4300044: SeaBoat02
+    4300046: EndSea
+    4300048: Tree06
+    4300050: RightSide
+    4300052: Station01Left
+    4300054: Station01Right
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

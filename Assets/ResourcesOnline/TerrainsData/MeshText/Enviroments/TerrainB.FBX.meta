@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 70cc7ba709cdc444da57367197421c6c
+timeCreated: 1530939086
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AbyssWall
+    100002: ArchWall
+    100004: BaseRoad
+    100006: Building
+    100008: EndSea
+    100010: Lake
+    100012: LeftForest01
+    100014: LeftForest02
+    100016: LeftForest03
+    100018: LineTree
+    100020: MiddleSea
+    100022: Park01
+    100024: Park02
+    100026: PillarAerialTrain
+    100028: RightForest01
+    100030: RightForest02
+    100032: RightForest03
+    100034: RightSide
+    100036: SeaBoat01
+    100038: SeaBoat02
+    100040: StartSea
+    100042: Station
+    100044: Store
+    100046: //RootNode
+    100048: Tunnel
+    400000: AbyssWall
+    400002: ArchWall
+    400004: BaseRoad
+    400006: Building
+    400008: EndSea
+    400010: Lake
+    400012: LeftForest01
+    400014: LeftForest02
+    400016: LeftForest03
+    400018: LineTree
+    400020: MiddleSea
+    400022: Park01
+    400024: Park02
+    400026: PillarAerialTrain
+    400028: RightForest01
+    400030: RightForest02
+    400032: RightForest03
+    400034: RightSide
+    400036: SeaBoat01
+    400038: SeaBoat02
+    400040: StartSea
+    400042: Station
+    400044: Store
+    400046: //RootNode
+    400048: Tunnel
+    2300000: AbyssWall
+    2300002: ArchWall
+    2300004: BaseRoad
+    2300006: Building
+    2300008: EndSea
+    2300010: Lake
+    2300012: LeftForest01
+    2300014: LeftForest02
+    2300016: LeftForest03
+    2300018: LineTree
+    2300020: MiddleSea
+    2300022: Park01
+    2300024: Park02
+    2300026: PillarAerialTrain
+    2300028: RightForest01
+    2300030: RightForest02
+    2300032: RightForest03
+    2300034: RightSide
+    2300036: SeaBoat01
+    2300038: SeaBoat02
+    2300040: StartSea
+    2300042: Station
+    2300044: Store
+    2300046: Tunnel
+    3300000: AbyssWall
+    3300002: ArchWall
+    3300004: BaseRoad
+    3300006: Building
+    3300008: EndSea
+    3300010: Lake
+    3300012: LeftForest01
+    3300014: LeftForest02
+    3300016: LeftForest03
+    3300018: LineTree
+    3300020: MiddleSea
+    3300022: Park01
+    3300024: Park02
+    3300026: PillarAerialTrain
+    3300028: RightForest01
+    3300030: RightForest02
+    3300032: RightForest03
+    3300034: RightSide
+    3300036: SeaBoat01
+    3300038: SeaBoat02
+    3300040: StartSea
+    3300042: Station
+    3300044: Store
+    3300046: Tunnel
+    4300000: ArchWall
+    4300002: AbyssWall
+    4300004: BaseRoad
+    4300006: PillarAerialTrain
+    4300008: Lake
+    4300010: RightForest01
+    4300012: LeftForest01
+    4300014: Tunnel
+    4300016: RightSide
+    4300018: LeftForest03
+    4300020: StartSea
+    4300022: SeaBoat01
+    4300024: LeftForest02
+    4300026: RightForest02
+    4300028: MiddleSea
+    4300030: SeaBoat02
+    4300032: EndSea
+    4300034: Park01
+    4300036: RightForest03
+    4300038: Store
+    4300040: Building
+    4300042: Park02
+    4300044: LineTree
+    4300046: Station
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

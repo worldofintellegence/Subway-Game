@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000012127667742}
+  m_IsPrefabParent: 1
+--- !u!1 &1000012127667742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4000012970457080}
+  - component: {fileID: 114000014266209086}
+  m_Layer: 0
+  m_Name: CheckMeshHover
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000012970457080
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012127667742}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000014266209086
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012127667742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12c0e752d465a89469b3be2c6552553c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  listHoverboard:
+  - id: 003
+    mesh: {fileID: 4300000, guid: 731120ccb67ca7d49a1cadce70f8991d, type: 3}
+    material: {fileID: 2100000, guid: 5b0e5d919b1dd48419d858e4ba2c6f6c, type: 2}
+  - id: 018
+    mesh: {fileID: 4300000, guid: 2c4b63dda97ded74289c84f60a748c86, type: 3}
+    material: {fileID: 2100000, guid: 89b150e2abbe3c2468a3ef8c06ed571d, type: 2}
+  - id: 006
+    mesh: {fileID: 4300000, guid: 5ab3af94990f1e645ad46d4418d59956, type: 3}
+    material: {fileID: 2100000, guid: c7bb839c1ad85074b8fac49fc9b5f8e9, type: 2}
+  - id: 019
+    mesh: {fileID: 4300000, guid: 518300b4f93138341a8234d85430d0f7, type: 3}
+    material: {fileID: 2100000, guid: 89b150e2abbe3c2468a3ef8c06ed571d, type: 2}
+  - id: 009
+    mesh: {fileID: 4300000, guid: 23d873eba6dd60c46b36edec19849903, type: 3}
+    material: {fileID: 2100000, guid: 87189728b9ac3134fad47cfcb9913760, type: 2}
+  - id: 011
+    mesh: {fileID: 4300000, guid: 8da7ad8523ba0ce44bd8c886b05fb078, type: 3}
+    material: {fileID: 2100000, guid: f78a86115587ddf48aa68ffeeff7892e, type: 2}
+  - id: 004
+    mesh: {fileID: 4300000, guid: 48293a31ad7138b48b90fe63e50bfadb, type: 3}
+    material: {fileID: 2100000, guid: c7d45e5e337c87a4ca519c7a7dba31ab, type: 2}
+  - id: 012
+    mesh: {fileID: 4300000, guid: ea1d35d76e4907145b62982ace94c60d, type: 3}
+    material: {fileID: 2100000, guid: 6d595ede8fc041d41ad86a8d2cbecbfd, type: 2}
+  - id: 005
+    mesh: {fileID: 4300000, guid: a33367f1e231d4244a6ec5c17f71e0af, type: 3}
+    material: {fileID: 2100000, guid: 9f1ebaa482f714d4190ca155eb3a5ceb, type: 2}
+  - id: 008
+    mesh: {fileID: 4300000, guid: 04c28fe613e02f0408ebc2d781fd1b06, type: 3}
+    material: {fileID: 2100000, guid: df36e2b00d3a4554c9f8a0b7bc8b0c17, type: 2}
+  - id: 017
+    mesh: {fileID: 4300000, guid: 4e6330e7266093a4a9da64f554a3fb42, type: 3}
+    material: {fileID: 2100000, guid: fef4fddb83b58774fa46ebd510acb73f, type: 2}
+  - id: 007
+    mesh: {fileID: 4300000, guid: f2b714986abd2b24c92f1e49aa5ba725, type: 3}
+    material: {fileID: 2100000, guid: ef9ab9e81ddbfaa4bbfc43de56953bf2, type: 2}
+  - id: 014
+    mesh: {fileID: 4300000, guid: 94811ce10f9804048a9a70d90d01fce7, type: 3}
+    material: {fileID: 2100000, guid: 609346ad5bccfb748a4bde127af35f65, type: 2}
+  - id: 015
+    mesh: {fileID: 4300000, guid: 6354aa935e669f240bcbf0808e2c4166, type: 3}
+    material: {fileID: 2100000, guid: b446640ac6df6ce4abf642a8d7a234a4, type: 2}
+  - id: 016
+    mesh: {fileID: 4300000, guid: 5369b3779d88c7246acf428715d8926c, type: 3}
+    material: {fileID: 2100000, guid: 33f107ef66475a04c98cc8265c0caaa3, type: 2}
+  - id: 020
+    mesh: {fileID: 4300000, guid: 7f0e0b6310e3d9942bafede2f9f0c8ae, type: 3}
+    material: {fileID: 2100000, guid: 4d08496799cbbe347b7acfbc922ef330, type: 2}

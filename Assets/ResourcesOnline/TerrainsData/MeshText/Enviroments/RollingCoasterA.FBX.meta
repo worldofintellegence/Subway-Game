@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 6c396be74fb1d904490544ff733b4d41
+timeCreated: 1530939074
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone01
+    100002: Bone02
+    100004: Bone03
+    100006: Bone04
+    100008: Bone05
+    100010: Bone06
+    100012: Bone07
+    100014: Bone08
+    100016: Bone09
+    100018: Bone10
+    100020: Bone11
+    100022: Bone12
+    100024: RollingCoaster
+    100026: //RootNode
+    100028: Train01
+    100030: Train02
+    100032: Train03
+    100034: Train04
+    100036: Train05
+    100038: Train06
+    100040: Train07
+    100042: Train08
+    100044: Train09
+    100046: Train10
+    100048: TrainHead
+    100050: BoneMain
+    400000: Bone01
+    400002: Bone02
+    400004: Bone03
+    400006: Bone04
+    400008: Bone05
+    400010: Bone06
+    400012: Bone07
+    400014: Bone08
+    400016: Bone09
+    400018: Bone10
+    400020: Bone11
+    400022: Bone12
+    400024: RollingCoaster
+    400026: //RootNode
+    400028: Train01
+    400030: Train02
+    400032: Train03
+    400034: Train04
+    400036: Train05
+    400038: Train06
+    400040: Train07
+    400042: Train08
+    400044: Train09
+    400046: Train10
+    400048: TrainHead
+    400050: BoneMain
+    2300000: RollingCoaster
+    2300002: Train01
+    2300004: Train02
+    2300006: Train03
+    2300008: Train04
+    2300010: Train05
+    2300012: Train06
+    2300014: Train07
+    2300016: Train08
+    2300018: Train09
+    2300020: Train10
+    2300022: TrainHead
+    3300000: RollingCoaster
+    3300002: Train01
+    3300004: Train02
+    3300006: Train03
+    3300008: Train04
+    3300010: Train05
+    3300012: Train06
+    3300014: Train07
+    3300016: Train08
+    3300018: Train09
+    3300020: Train10
+    3300022: TrainHead
+    4300000: TrainHead
+    4300002: Train01
+    4300004: Train02
+    4300006: Train03
+    4300008: Train04
+    4300010: Train05
+    4300012: Train06
+    4300014: Train07
+    4300016: Train08
+    4300018: Train09
+    4300020: Train10
+    4300022: RollingCoaster
+    7400000: RollingCoasterA
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RollingCoasterA
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 250
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoneMain
+        weight: 1
+      - path: BoneMain/Bone01
+        weight: 1
+      - path: BoneMain/Bone01/Bone02
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Bone10
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Bone10/Bone11
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Bone10/Bone11/Bone12
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Bone10/Bone11/TrainHead
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Bone10/Train01
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Train02
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Train03
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Train04
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Train05
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Bone05/Train06
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Bone04/Train07
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Bone03/Train08
+        weight: 1
+      - path: BoneMain/Bone01/Bone02/Train09
+        weight: 1
+      - path: BoneMain/Bone01/Train10
+        weight: 1
+      - path: BoneMain/RollingCoaster
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
