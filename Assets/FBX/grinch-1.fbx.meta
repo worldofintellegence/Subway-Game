@@ -2,7 +2,10 @@ fileFormatVersion: 2
 guid: c2c03500478c93843b9b82dd35b204aa
 ModelImporter:
   serializedVersion: 21300
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -4823245980051584103
+    second: grinch-ready
   externalObjects: {}
   materials:
     materialImportMode: 2

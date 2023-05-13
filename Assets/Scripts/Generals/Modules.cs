@@ -1205,7 +1205,7 @@ public class Modules : MonoBehaviour {
     {
         int value = Mathf.RoundToInt(((50 - valueSensitivity) / 10f) * 2);
        
-        PageMainGame pageMain = FindAnyObjectByType<PageMainGame>();
+        PageMainGame pageMain = FindObjectOfType<PageMainGame>();
         pageMain.minSwipeDistX = pageMain.originSwipeDistX + value;  
         pageMain.minSwipeDistY = pageMain.originSwipeDistY + value;
     }
